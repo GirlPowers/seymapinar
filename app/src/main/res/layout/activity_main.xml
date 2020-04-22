@@ -23,4 +23,12 @@
         tools:layout_editor_absoluteX="163dp"
         tools:layout_editor_absoluteY="168dp" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_launcher_background"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="458dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
